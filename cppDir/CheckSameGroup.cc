@@ -1,0 +1,1 @@
+return true && ccccccc_l_l_shipmode == aggMe.l_l_shipmode;
